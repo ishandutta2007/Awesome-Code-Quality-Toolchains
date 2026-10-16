@@ -65,92 +65,92 @@ All open-source tools listed below are ranked strictly by **GitHub Stargazers Co
 
 ### ⭐ Tier-1 Ecosystem Flagships
 
-- **[Prettier](https://github.com/prettier/prettier)** [![GitHub stars](https://img.shields.io/github/stars/prettier/prettier?style=social&color=white)](https://github.com/prettier/prettier/stargazers)  
+- **[Prettier](https://github.com/prettier/prettier)** [![GitHub_Stars](https://img.shields.io/github/stars/prettier/prettier?style=social&color=white)](https://github.com/prettier/prettier/stargazers)  
   *Opinionated code formatter for JavaScript, TypeScript, HTML, CSS, Markdown, and JSON (MIT).*  
   The world’s most adopted code formatting engine—relied upon by millions of developers to eliminate stylistic debates by parsing code into ASTs and re-printing it with strict formatting rules.
 
-- **[Ruff](https://github.com/astral-sh/ruff)** [![GitHub stars](https://img.shields.io/github/stars/astral-sh/ruff?style=social&color=white)](https://github.com/astral-sh/ruff/stargazers)  
+- **[Ruff](https://github.com/astral-sh/ruff)** [![GitHub_Stars](https://img.shields.io/github/stars/astral-sh/ruff?style=social&color=white)](https://github.com/astral-sh/ruff/stargazers)  
   *Extremely fast Python linter and code formatter written in Rust (MIT).*  
   Over 10–100x faster than traditional tools like Flake8, Black, and isort. Replaces an entire ecosystem of individual Python plugins with a single zero-dependency binary implementing 900+ lint rules.
 
-- **[ShellCheck](https://github.com/koalaman/shellcheck)** [![GitHub stars](https://img.shields.io/github/stars/koalaman/shellcheck?style=social&color=white)](https://github.com/koalaman/shellcheck/stargazers)  
+- **[ShellCheck](https://github.com/koalaman/shellcheck)** [![GitHub_Stars](https://img.shields.io/github/stars/koalaman/shellcheck?style=social&color=white)](https://github.com/koalaman/shellcheck/stargazers)  
   *Static analysis tool for sh/bash shell scripts written in Haskell (GPL-3.0).*  
   The de facto quality gate for shell scripting. Identifies syntax errors, insidious corner-case bugs, quoting issues, and semantic hazards before scripts run in production pipelines.
 
-- **[Trivy](https://github.com/aquasecurity/trivy)** [![GitHub stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers)  
+- **[Trivy](https://github.com/aquasecurity/trivy)** [![GitHub_Stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers)  
   *All-in-one security scanner for vulnerabilities, secrets, and misconfigurations (Apache-2.0).*  
   Rapid comprehensive vulnerability scanner supporting container images, file systems, Git repositories, virtual machine disks, and Kubernetes manifests with SBOM generation.
 
-- **[Gitleaks](https://github.com/gitleaks/gitleaks)** [![GitHub stars](https://img.shields.io/github/stars/gitleaks/gitleaks?style=social&color=white)](https://github.com/gitleaks/gitleaks/stargazers)  
+- **[Gitleaks](https://github.com/gitleaks/gitleaks)** [![GitHub_Stars](https://img.shields.io/github/stars/gitleaks/gitleaks?style=social&color=white)](https://github.com/gitleaks/gitleaks/stargazers)  
   *Fast, lightweight secret scanner for detecting hardcoded API keys and credentials (MIT).*  
   The gold standard for credential leak prevention. Scans commits, branch history, and local staging areas with custom regex and Shannon entropy checks to stop security leaks before commit push.
 
-- **[ESLint](https://github.com/eslint/eslint)** [![GitHub stars](https://img.shields.io/github/stars/eslint/eslint?style=social&color=white)](https://github.com/eslint/eslint/stargazers)  
+- **[ESLint](https://github.com/eslint/eslint)** [![GitHub_Stars](https://img.shields.io/github/stars/eslint/eslint?style=social&color=white)](https://github.com/eslint/eslint/stargazers)  
   *Pluggable and configurable JavaScript & TypeScript static code analysis engine (MIT).*  
   The core standard for JavaScript ecosystem code quality. Identifies problematic coding patterns, enforces functional and stylistic constraints, and powers automated fixes across modern web runtimes.
 
-- **[Biome](https://github.com/biomejs/biome)** [![GitHub stars](https://img.shields.io/github/stars/biomejs/biome?style=social&color=white)](https://github.com/biomejs/biome/stargazers)  
+- **[Biome](https://github.com/biomejs/biome)** [![GitHub_Stars](https://img.shields.io/github/stars/biomejs/biome?style=social&color=white)](https://github.com/biomejs/biome/stargazers)  
   *High-performance unified toolchain for web projects written in Rust (MIT).*  
   Formats and lints JavaScript, TypeScript, JSX, and JSON up to 35x faster than Prettier. Provides 97% Prettier compatibility, instant single-command migrations, and first-class IDE integrations.
 
-- **[Oxc](https://github.com/oxc-project/oxc)** [![GitHub stars](https://img.shields.io/github/stars/oxc-project/oxc?style=social&color=white)](https://github.com/oxc-project/oxc/stargazers)  
+- **[Oxc](https://github.com/oxc-project/oxc)** [![GitHub_Stars](https://img.shields.io/github/stars/oxc-project/oxc?style=social&color=white)](https://github.com/oxc-project/oxc/stargazers)  
   *Suite of high-performance compiler tools and linter for JavaScript/TypeScript written in Rust (MIT).*  
   The ultra-fast "Oxidation Compiler" toolkit featuring an extraordinarily fast linter (50–100x faster than ESLint), parser, AST transformer, and resolver engineered for web developer toolchains.
 
-- **[golangci-lint](https://github.com/golangci/golangci-lint)** [![GitHub stars](https://img.shields.io/github/stars/golangci/golangci-lint?style=social&color=white)](https://github.com/golangci/golangci-lint/stargazers)  
+- **[golangci-lint](https://github.com/golangci/golangci-lint)** [![GitHub_Stars](https://img.shields.io/github/stars/golangci/golangci-lint?style=social&color=white)](https://github.com/golangci/golangci-lint/stargazers)  
   *Fast, parallel Go linters runner with smart caching (GPL-3.0).*  
   The industry-standard Go quality runner. Integrates over 100 specialized Go linters in parallel, shares Go AST representations to slash memory, and caches previous analysis runs for CI speed.
 
-- **[Semgrep](https://github.com/semgrep/semgrep)** [![GitHub stars](https://img.shields.io/github/stars/semgrep/semgrep?style=social&color=white)](https://github.com/semgrep/semgrep/stargazers)  
+- **[Semgrep](https://github.com/semgrep/semgrep)** [![GitHub_Stars](https://img.shields.io/github/stars/semgrep/semgrep?style=social&color=white)](https://github.com/semgrep/semgrep/stargazers)  
   *Lightweight semantic static analysis for searching code and enforcing standards (LGPL-2.1).*  
   Enables developers to write custom AST-aware queries that look like ordinary code. Scans 30+ languages in seconds, backed by a massive community registry of vulnerability and hygiene rules.
 
-- **[Infer](https://github.com/facebook/infer)** [![GitHub stars](https://img.shields.io/github/stars/facebook/infer?style=social&color=white)](https://github.com/facebook/infer/stargazers)  
+- **[Infer](https://github.com/facebook/infer)** [![GitHub_Stars](https://img.shields.io/github/stars/facebook/infer?style=social&color=white)](https://github.com/facebook/infer/stargazers)  
   *Static analyzer for Java, C, C++, and Objective-C by Meta (MIT).*  
   Uses separation logic and bi-abduction to prove mathematical program properties, spotting complex null pointer dereferences, resource leaks, memory corruptions, and concurrency race conditions.
 
-- **[Pre-commit](https://github.com/pre-commit/pre-commit)** [![GitHub stars](https://img.shields.io/github/stars/pre-commit/pre-commit?style=social&color=white)](https://github.com/pre-commit/pre-commit/stargazers)  
+- **[Pre-commit](https://github.com/pre-commit/pre-commit)** [![GitHub_Stars](https://img.shields.io/github/stars/pre-commit/pre-commit?style=social&color=white)](https://github.com/pre-commit/pre-commit/stargazers)  
   *Multi-language framework for managing and maintaining pre-commit git hooks (MIT).*  
   Standardizes developer workstations across organizations by automatically downloading, configuring, and executing linters, formatters, and hygiene checks before commits are finalized.
 
-- **[PHPStan](https://github.com/phpstan/phpstan)** [![GitHub stars](https://img.shields.io/github/stars/phpstan/phpstan?style=social&color=white)](https://github.com/phpstan/phpstan/stargazers)  
+- **[PHPStan](https://github.com/phpstan/phpstan)** [![GitHub_Stars](https://img.shields.io/github/stars/phpstan/phpstan?style=social&color=white)](https://github.com/phpstan/phpstan/stargazers)  
   *Static analysis tool for PHP focusing on finding bugs without writing tests (MIT).*  
   Scans entire PHP codebases to catch type mismatches, dead code, undefined methods, and incorrect logic checks through graduated strictness levels from 0 to 9.
 
-- **[Clippy](https://github.com/rust-lang/rust-clippy)** [![GitHub stars](https://img.shields.io/github/stars/rust-lang/rust-clippy?style=social&color=white)](https://github.com/rust-lang/rust-clippy/stargazers)  
+- **[Clippy](https://github.com/rust-lang/rust-clippy)** [![GitHub_Stars](https://img.shields.io/github/stars/rust-lang/rust-clippy?style=social&color=white)](https://github.com/rust-lang/rust-clippy/stargazers)  
   *Collection of lints to catch common mistakes and improve Rust code (Apache-2.0/MIT).*  
   The official Rust compiler linter. Bundles over 700 checks covering correctness, idiomatic style, performance bottlenecks, and unnecessary allocations with precise compiler diagnostics.
 
-- **[RuboCop](https://github.com/rubocop/rubocop)** [![GitHub stars](https://img.shields.io/github/stars/rubocop/rubocop?style=social&color=white)](https://github.com/rubocop/rubocop/stargazers)  
+- **[RuboCop](https://github.com/rubocop/rubocop)** [![GitHub_Stars](https://img.shields.io/github/stars/rubocop/rubocop?style=social&color=white)](https://github.com/rubocop/rubocop/stargazers)  
   *Ruby static code analyzer and code formatter based on the community Ruby Style Guide (MIT).*  
   The authoritative linter for Ruby and Ruby on Rails. Enforces standard conventions, catches runtime pitfalls, and features automated safe code correction.
 
-- **[Hadolint](https://github.com/hadolint/hadolint)** [![GitHub stars](https://img.shields.io/github/stars/hadolint/hadolint?style=social&color=white)](https://github.com/hadolint/hadolint/stargazers)  
+- **[Hadolint](https://github.com/hadolint/hadolint)** [![GitHub_Stars](https://img.shields.io/github/stars/hadolint/hadolint?style=social&color=white)](https://github.com/hadolint/hadolint/stargazers)  
   *Smarter Dockerfile linter that helps build best practice container images (GPL-3.0).*  
   Parses Dockerfile ASTs and runs ShellCheck on inner RUN instructions to ensure minimal image footprints, secure user definitions, and proper caching layers.
 
-- **[SonarQube Community Edition](https://github.com/SonarSource/sonarqube)** [![GitHub stars](https://img.shields.io/github/stars/SonarSource/sonarqube?style=social&color=white)](https://github.com/SonarSource/sonarqube/stargazers)  
+- **[SonarQube Community Edition](https://github.com/SonarSource/sonarqube)** [![GitHub_Stars](https://img.shields.io/github/stars/SonarSource/sonarqube?style=social&color=white)](https://github.com/SonarSource/sonarqube/stargazers)  
   *Self-hosted open-source continuous inspection platform (LGPL-3.0).*  
   The community edition of SonarQube analyzing 19+ languages out-of-the-box, providing centralized dashboards for technical debt, duplication, coverage, and security hotspots.
 
-- **[CodeQL](https://github.com/github/codeql)** [![GitHub stars](https://img.shields.io/github/stars/github/codeql?style=social&color=white)](https://github.com/github/codeql/stargazers)  
+- **[CodeQL](https://github.com/github/codeql)** [![GitHub_Stars](https://img.shields.io/github/stars/github/codeql?style=social&color=white)](https://github.com/github/codeql/stargazers)  
   *Declarative, object-oriented query language to treat code as data (MIT repo queries).*  
   The semantic engine powering GitHub Advanced Security. Builds relational representations of codebases to track taint-flow paths and uncover critical vulnerabilities like SQLi and RCE.
 
 ### 🧰 Additional Strong Open-Source Options
 
-- **[Checkstyle](https://github.com/checkstyle/checkstyle)** [![GitHub stars](https://img.shields.io/github/stars/checkstyle/checkstyle?style=social&color=white)](https://github.com/checkstyle/checkstyle/stargazers) — Development tool to help programmers write Java code that adheres to a coding standard (LGPL-2.1).
-- **[gosec](https://github.com/securego/gosec)** [![GitHub stars](https://img.shields.io/github/stars/securego/gosec?style=social&color=white)](https://github.com/securego/gosec/stargazers) — Security checker inspecting Go ASTs to identify security flaws and injection vulnerabilities (Apache-2.0).
-- **[Bandit](https://github.com/PyCQA/bandit)** [![GitHub stars](https://img.shields.io/github/stars/PyCQA/bandit?style=social&color=white)](https://github.com/PyCQA/bandit/stargazers) — Security-oriented static analysis tool designed to find common vulnerabilities in Python code (Apache-2.0).
-- **[Error Prone](https://github.com/google/error-prone)** [![GitHub stars](https://img.shields.io/github/stars/google/error-prone?style=social&color=white)](https://github.com/google/error-prone/stargazers) — Google's compile-time static analysis tool for Java that hooks directly into `javac` to catch bugs at build time (Apache-2.0).
-- **[detekt](https://github.com/detekt/detekt)** [![GitHub stars](https://img.shields.io/github/stars/detekt/detekt?style=social&color=white)](https://github.com/detekt/detekt/stargazers) — Static code analysis tool for the Kotlin programming language with complexity metrics and code smell analysis (Apache-2.0).
-- **[Staticcheck](https://github.com/dominikh/go-tools)** [![GitHub stars](https://img.shields.io/github/stars/dominikh/go-tools?style=social&color=white)](https://github.com/dominikh/go-tools/stargazers) — Advanced Go linter using SSA representation to detect elusive bugs, simplify code, and improve performance (MIT).
-- **[ktlint](https://github.com/pinterest/ktlint)** [![GitHub stars](https://img.shields.io/github/stars/pinterest/ktlint?style=social&color=white)](https://github.com/pinterest/ktlint/stargazers) — An anti-bikeshedding Kotlin linter with built-in formatter adhering strictly to the official Kotlin code style (MIT).
-- **[PMD](https://github.com/pmd/pmd)** [![GitHub stars](https://img.shields.io/github/stars/pmd/pmd?style=social&color=white)](https://github.com/pmd/pmd/stargazers) — Extensible cross-language static code analyzer supporting Java, Apex, PL/SQL, XML, and duplicate code detection via CPD (BSD-style).
-- **[SpotBugs](https://github.com/spotbugs/spotbugs)** [![GitHub stars](https://img.shields.io/github/stars/spotbugs/spotbugs?style=social&color=white)](https://github.com/spotbugs/spotbugs/stargazers) — The spiritual successor of FindBugs, using bytecode analysis to find over 400 bug patterns in Java programs (LGPL-2.1).
-- **[Yamllint](https://github.com/adrienverge/yamllint)** [![GitHub stars](https://img.shields.io/github/stars/adrienverge/yamllint?style=social&color=white)](https://github.com/adrienverge/yamllint/stargazers) — Linter for YAML files checking for syntax errors, key repetition, and cosmetic formatting quirks (GPL-3.0).
-- **[EditorConfig](https://github.com/editorconfig/editorconfig)** [![GitHub stars](https://img.shields.io/github/stars/editorconfig/editorconfig?style=social&color=white)](https://github.com/editorconfig/editorconfig/stargazers) — Universal core defining coding styles across different editors and IDEs (BSD-2-Clause).
-- **[PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer)** [![GitHub stars](https://img.shields.io/github/stars/PHPCSStandards/PHP_CodeSniffer?style=social&color=white)](https://github.com/PHPCSStandards/PHP_CodeSniffer/stargazers) — Tokenizes PHP, JavaScript, and CSS files to detect violations of a defined coding standard like PSR-12 (BSD-3-Clause).
+- **[Checkstyle](https://github.com/checkstyle/checkstyle)** [![GitHub_Stars](https://img.shields.io/github/stars/checkstyle/checkstyle?style=social&color=white)](https://github.com/checkstyle/checkstyle/stargazers) — Development tool to help programmers write Java code that adheres to a coding standard (LGPL-2.1).
+- **[gosec](https://github.com/securego/gosec)** [![GitHub_Stars](https://img.shields.io/github/stars/securego/gosec?style=social&color=white)](https://github.com/securego/gosec/stargazers) — Security checker inspecting Go ASTs to identify security flaws and injection vulnerabilities (Apache-2.0).
+- **[Bandit](https://github.com/PyCQA/bandit)** [![GitHub_Stars](https://img.shields.io/github/stars/PyCQA/bandit?style=social&color=white)](https://github.com/PyCQA/bandit/stargazers) — Security-oriented static analysis tool designed to find common vulnerabilities in Python code (Apache-2.0).
+- **[Error Prone](https://github.com/google/error-prone)** [![GitHub_Stars](https://img.shields.io/github/stars/google/error-prone?style=social&color=white)](https://github.com/google/error-prone/stargazers) — Google's compile-time static analysis tool for Java that hooks directly into `javac` to catch bugs at build time (Apache-2.0).
+- **[detekt](https://github.com/detekt/detekt)** [![GitHub_Stars](https://img.shields.io/github/stars/detekt/detekt?style=social&color=white)](https://github.com/detekt/detekt/stargazers) — Static code analysis tool for the Kotlin programming language with complexity metrics and code smell analysis (Apache-2.0).
+- **[Staticcheck](https://github.com/dominikh/go-tools)** [![GitHub_Stars](https://img.shields.io/github/stars/dominikh/go-tools?style=social&color=white)](https://github.com/dominikh/go-tools/stargazers) — Advanced Go linter using SSA representation to detect elusive bugs, simplify code, and improve performance (MIT).
+- **[ktlint](https://github.com/pinterest/ktlint)** [![GitHub_Stars](https://img.shields.io/github/stars/pinterest/ktlint?style=social&color=white)](https://github.com/pinterest/ktlint/stargazers) — An anti-bikeshedding Kotlin linter with built-in formatter adhering strictly to the official Kotlin code style (MIT).
+- **[PMD](https://github.com/pmd/pmd)** [![GitHub_Stars](https://img.shields.io/github/stars/pmd/pmd?style=social&color=white)](https://github.com/pmd/pmd/stargazers) — Extensible cross-language static code analyzer supporting Java, Apex, PL/SQL, XML, and duplicate code detection via CPD (BSD-style).
+- **[SpotBugs](https://github.com/spotbugs/spotbugs)** [![GitHub_Stars](https://img.shields.io/github/stars/spotbugs/spotbugs?style=social&color=white)](https://github.com/spotbugs/spotbugs/stargazers) — The spiritual successor of FindBugs, using bytecode analysis to find over 400 bug patterns in Java programs (LGPL-2.1).
+- **[Yamllint](https://github.com/adrienverge/yamllint)** [![GitHub_Stars](https://img.shields.io/github/stars/adrienverge/yamllint?style=social&color=white)](https://github.com/adrienverge/yamllint/stargazers) — Linter for YAML files checking for syntax errors, key repetition, and cosmetic formatting quirks (GPL-3.0).
+- **[EditorConfig](https://github.com/editorconfig/editorconfig)** [![GitHub_Stars](https://img.shields.io/github/stars/editorconfig/editorconfig?style=social&color=white)](https://github.com/editorconfig/editorconfig/stargazers) — Universal core defining coding styles across different editors and IDEs (BSD-2-Clause).
+- **[PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer)** [![GitHub_Stars](https://img.shields.io/github/stars/PHPCSStandards/PHP_CodeSniffer?style=social&color=white)](https://github.com/PHPCSStandards/PHP_CodeSniffer/stargazers) — Tokenizes PHP, JavaScript, and CSS files to detect violations of a defined coding standard like PSR-12 (BSD-3-Clause).
 
 ---
 
@@ -179,7 +179,7 @@ We welcome community contributions to keep this ecosystem directory fresh and ac
 1. **Fork the repository** to your personal GitHub account.
 2. **Add or update an entry** in `README.md` keeping descriptions factual, concise, and linked to official repositories or sites.
 3. For SaaS products, verify pricing tiers and explicit free plan limits.
-4. For open-source tools, ensure proper GitHub link and social star badge placement.
+4. For open-source tools, ensure proper GitHub link and social Stars_Badge placement.
 5. **Submit a Pull Request** with a descriptive title and summary of changes.
 
 ---
